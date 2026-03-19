@@ -33,7 +33,7 @@ button {
     border-radius: 16px;
     width: 45px;
     margin: 25px;
-    border: solid;
+    border: 2px solid;
     cursor: pointer;
 }
 
@@ -61,7 +61,7 @@ button:hover {
 .musicas {
     list-style-type: none;
     color: white;
-    border: 1px solid;
+    border: 2px solid;
     background-color: black;
     padding: 20px;
     border-radius: 20px;
